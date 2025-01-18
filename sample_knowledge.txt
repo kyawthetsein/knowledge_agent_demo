@@ -1,0 +1,10 @@
+PraisonAI is a powerful AI framework that enables the creation of intelligent agents with knowledge capabilities. 
+It supports various types of knowledge sources including PDFs, text files, and markdown documents.
+The framework uses vector storage for efficient knowledge retrieval and supports multiple vector store backends like Chroma.
+Agents can be configured with specific roles, goals, and backstories to create specialized knowledge workers.
+For more information, please refer to the following resources:
+https://langchain-ai.github.io/langgraph/tutorials/
+https://langchain-ai.github.io/langgraph/how-tos/
+https://langchain-ai.github.io/langgraph/concepts/high_level/
+https://langchain-ai.github.io/langgraph/reference/graphs/
+https://langchain-ai.github.io/langgraph/concepts/
