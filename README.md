@@ -5,6 +5,10 @@ A Python-based knowledge agent that can answer questions using web-based documen
 - Cohere for embeddings
 - Chroma for vector storage
 - LangChain for the agent framework
+  - LangChain is a framework for building knowledge agents. It provides a modular architecture for integrating various components, such as LLMs, embeddings, and vector storage.
+- Gradio for creating an interactive interface for the knowledge agent.
+  - Gradio is an open-source library for building user interfaces for machine learning models. It allows users to interact with the knowledge agent in real-time, inputting questions and receiving answers.
+
 
 ## Features
 
@@ -13,6 +17,8 @@ A Python-based knowledge agent that can answer questions using web-based documen
 - Uses Groq's Mixtral-8x7b model for question answering
 - Handles rate limiting and batch processing
 - Tracks and displays source URLs for answers
+- Provides an interactive Gradio interface for user interaction with the knowledge agent.
+- The Gradio interface allows users to input questions and receive answers from the knowledge agent in real-time.
 
 ## Setup
 

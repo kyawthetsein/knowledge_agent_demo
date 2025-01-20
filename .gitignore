@@ -36,3 +36,4 @@ ENV/
 .praison/
 *.db
 chroma.sqlite3
+.gradio/
